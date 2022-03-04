@@ -1,2 +1,1 @@
-# Codes
----
+print('Hello World')
